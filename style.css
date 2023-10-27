@@ -76,9 +76,11 @@ body {
 }
 
 .home-content .btn-box {
+    display: flex;
+    justify-content: space-between;
     width: 345px;
     height: 50px;
-    background: yellowgreen;
+    background: transparent;
 }
 
 .btn-box a {
