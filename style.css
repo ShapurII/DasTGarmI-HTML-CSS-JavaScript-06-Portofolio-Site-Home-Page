@@ -192,3 +192,12 @@ body {
 .home-sci a:hover::before {
     width: 100%;
 }
+
+
+.home-imgHover {
+    position: absolute;
+    top: 0;
+    right: 30px;
+    width: 500px;
+    height: 100%;
+}
