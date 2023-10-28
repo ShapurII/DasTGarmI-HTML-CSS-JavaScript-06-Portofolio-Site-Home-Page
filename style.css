@@ -105,7 +105,9 @@ body {
     transition: .5s;
 }
 
-
+.btn-box a:hover {
+    color: #081b29;
+}
 
 
 .btn-box a:nth-child(2) {
@@ -140,4 +142,12 @@ body {
 
 .btn-box a:hover::before {
     width: 100%;
+}
+
+
+.home-sci {
+    position: absolute;
+    bottom: 40px;
+    width: 170px;
+    background: red;
 }
