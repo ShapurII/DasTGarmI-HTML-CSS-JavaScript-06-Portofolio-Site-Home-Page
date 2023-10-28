@@ -171,6 +171,12 @@ body {
 }
 
 
+.home-sci a:hover {
+    color: #081b29;
+}
+
+
+
 .home-sci a::before {
     content: '';
     position: absolute;
